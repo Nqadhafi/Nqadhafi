@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👍 Hello, you can call me Nanda or yourBae<br>🔭I'm actually still a script kiddies,but yet on progress to becoming fullstuck dev UwU<br>👯 I’m working on non-tech company but doing as a college student on night on STMIK AMIKOM SURAKARTA<br>🌱 Currently learning php & laravel<br>💬 Get in touch w me on my social media
+ 👍 Hello, you can call me Nanda or yourBae<br>🔭I'm actually still a script kiddies,but yet still on progress to becoming fullstuck dev UwU<br>👯 I’m working on non-tech company but doing as a college student on night on STMIK AMIKOM SURAKARTA<br>🌱 Currently learning php & laravel<br>💬 Get in touch w me on my social media
 
 
 ## 🌐 Socials:
